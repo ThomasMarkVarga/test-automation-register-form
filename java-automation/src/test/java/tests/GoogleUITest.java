@@ -31,4 +31,5 @@ public class GoogleUITest {
         searchInput.sendKeys("Google Atelierul Digital");
         searchInput.sendKeys(Keys.ENTER);
     }
+
 }
