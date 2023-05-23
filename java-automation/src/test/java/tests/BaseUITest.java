@@ -26,9 +26,4 @@ public class BaseUITest {
         System.out.println("Default browser: " + browser);
         System.out.println("Page under test: " + signPageUrl);
     }
-
-    @Test
-    public void demoTest(){
-
-    }
 }
